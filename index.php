@@ -56,16 +56,16 @@
           </a>
           <div class="dropdown-menu dropdown-multicol" aria-labelledby="navbarDropdown">
             <div class="dropdown-row">
-              <a class="dropdown-item" href="contabilidad.php" title="Contabilidad">CONTABILIDAD</a>
-              <a class="dropdown-item" href="fiscal.php" title="Fiscal">FISCAL</a>
+              <a class="dropdown-item" href="contabilidad.php" title="Contabilidad">SOCIALES</a>
+              <a class="dropdown-item" href="fiscal.php" title="Fiscal">DEPORTIVOS</a>
             </div>
             <div class="dropdown-row">
-              <a class="dropdown-item" href="administrativo.php" title="Administrativo">ADMINISTRATIVO</a>
-              <a class="dropdown-item" href="rh.php" title="Recursos Humanos">R. HUMANOS</a>
+              <a class="dropdown-item" href="administrativo.php" title="Administrativo">CULTURALES</a>
+              <a class="dropdown-item" href="rh.php" title="Recursos Humanos">REUNIONES</a>
             </div>
             <div class="dropdown-row">
-              <a class="dropdown-item" href="#" title="Inmobiliaria">INMOBILIARIA</a>
-              <a class="dropdown-item" href="juridico.php" title="Juridico">JURÍDICO</a>
+              <a class="dropdown-item" href="#" title="Inmobiliaria">JORNADAS DE SALUD</a>
+              <a class="dropdown-item" href="juridico.php" title="Juridico">TALLERES</a>
             </div>
           </div>
         </li>
@@ -115,9 +115,9 @@
         <img src="image/contabilidad.jpg" class="desk img-fluid w-100" alt="asesoria contable" title="asesoria contable">
         <img src="image/mov/contabilidad.jpg" class="movil img-fluid carmov w-100" alt="asesoria contable" title="asesoria contable">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">CONTABILIDAD</h2>
+          <h2 class="text-doradolight desk">SOCIALES</h2>
           <P class="text-dorado desk">Es uno de los factores decisores para que una empresa sea exitosa, ¡define el rumbo de tu empresa!.</P>
-          <h2 class="text-bluedark movil">CONTABILIDAD</h2>
+          <h2 class="text-bluedark movil">SOCIALES</h2>
           <P class="text-bluedark movil">Es uno de los factores decisores para que una empresa sea exitosa, ¡define el rumbo de tu empresa!.</P>
           <div class="text-center pt-4">
             <a href="contabilidad.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -129,9 +129,9 @@
         <img src="image/fiscal.jpg" class="desk img-fluid w-100" alt="asesoria fiscal" title="asesoria fiscal">
         <img src="image/mov/fiscal.jpg" class="movil img-fluid carmov w-100" alt="asesoria fiscal" title="asesoria fiscal">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">FISCAL</h2>
+          <h2 class="text-doradolight desk">DEPORTIVOS</h2>
           <p class="text-dorado desk">Obtén todos los beneficios y estímulos que ofrecen las leyes dentro de un marco de legalidad y transparencia.</p>
-          <h2 class="text-bluedark movil">FISCAL</h2>
+          <h2 class="text-bluedark movil">DEPORTIVOS</h2>
           <p class="text-bluedark movil">Obtén todos los beneficios y estímulos que ofrecen las leyes dentro de un marco de legalidad y transparencia.</p>
           <div class="text-center pt-4">
             <a href="fiscal.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -143,9 +143,9 @@
         <img src="image/administrativo.jpg" class="desk img-fluid w-100" alt="asesoria administrativa" title="asesoria administrativa">
         <img src="image/mov/administrativo.jpg" class="movil img-fluid carmov w-100" alt="asesoria administrativa" title="asesoria administrativa">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">ADMINISTRATIVO</h2>
+          <h2 class="text-doradolight desk">CULTURALES</h2>
           <p class="text-dorado desk">¡Desarrolla la productividad y la competitividad de tu empresa u organismo social con una administración de calidad!.</p>
-          <h2 class="text-bluedark movil">ADMINISTRATIVO</h2>
+          <h2 class="text-bluedark movil">CULTURALES</h2>
           <p class="text-bluedark movil">¡Desarrolla la productividad y la competitividad de tu empresa u organismo social con una administración de calidad!.</p>
           <div class="text-center pt-4">
             <a href="administrativo.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -157,9 +157,9 @@
         <img src="image/rh.jpg" class="desk img-fluid w-100" alt="Recursos Humanos" title="Recursos Humanos">
         <img src="image/mov/rh.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">RECURSOS HUMANOS</h2>
+          <h2 class="text-doradolight desk">REUNIONES</h2>
           <p class="text-dorado desk">Incrementa la productividad de tu empresa mejorando la calidad y habilidades de tu personal.</p>
-          <h2 class="text-bluedark movil">RECURSOS HUMANOS</h2>
+          <h2 class="text-bluedark movil">REUNIONES</h2>
           <p class="text-bluedark movil">Incrementa la productividad de tu empresa mejorando la calidad y habilidades de tu personal.</p>
           <div class="text-center pt-4">
             <a href="rh.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -171,9 +171,9 @@
         <img src="image/inmobiliaria.jpg" class="desk img-fluid w-100" alt="Recursos Humanos" title="Recursos Humanos">
         <img src="image/mov/inmobiliaria.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">INMOBILIARIA</h2>
+          <h2 class="text-doradolight desk">JORNADAS DE SALUD</h2>
           <p class="text-dorado desk">Consigue resultados satisfactorios a corto plazo en el mercado inmobiliario con una atención integral y personalizada.</p>
-          <h2 class="text-bluedark movil">INMOBILIARIA</h2>
+          <h2 class="text-bluedark movil">JORNADAS DE SALUD</h2>
           <p class="text-bluedark movil">Consigue resultados satisfactorios a corto plazo en el mercado inmobiliario con una atención integral y personalizada.</p>
           <div class="text-center pt-4">
             <a href="#"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -185,9 +185,9 @@
         <img src="image/juridico.jpg" class="desk img-fluid w-100" alt="Recursos Humanos" title="Recursos Humanos">
         <img src="image/mov/juridico.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">JURÍDICO</h2>
+          <h2 class="text-doradolight desk">TALLERES</h2>
           <p class="text-dorado desk">El capital humano es la base de cualquier entidad económica, conocido también como Recursos Humanos, está compuesta de seres humanos que se unen para beneficio mutuo...</p>
-          <h2 class="text-bluedark movil">JURÍDICO</h2>
+          <h2 class="text-bluedark movil">TALLERES</h2>
           <p class="text-bluedark movil">El capital humano es la base de cualquier entidad económica, conocido también como Recursos Humanos, está compuesta de seres humanos que se unen para beneficio mutuo...</p>
           <div class="text-center pt-4">
             <a href="juridico.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -289,17 +289,14 @@
                   <p class="text-dorado">Amor<br>
                   Solidaridad<br>
                   Honestidad<br>
-                  Fraternidad<br>
-                  Generosidad<br>
-                  Dignidad<br>
-                  Laboriosidad<br>
-                  Humildad<br></p>
+                  Fraternidad<br></p>
                 </div>
                 <div class="col-md-5 pt-5">
                   <p class="text-dorado">
-                  Confidencialidad<br>
-                  Compromiso<br>
-                  Ética profesional</p>
+                    Generosidad<br>
+                    Dignidad<br>
+                    Laboriosidad<br>
+                    Humildad<br></p>
                 </div>
               </div>
             </div>
