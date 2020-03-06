@@ -10,8 +10,8 @@
   <meta name="keywords" content="asesores, fiscal, financiero, finanzas, estado financiero, solucion fiscal, asesor fiscal, asesoria fiscal, asesoria de negocios, diseño de objetivos, asesor financiero, planeacion fiscal, contabilidad, contable, contadores, contador, declaracion anual, tramites, impuestos, persona fisica, reclutar, reclutamiento, persona moral, contribuyente, estudio socioeconomico, control interno, administracion, recursos humanos, capital humano, capacitacion, capacitacion empresarial, laboral, contratacion, personal nuevo, busqueda de personal, inmobiliaria, inmuebles, propiedad, terreno, grupo inmobiliario, abogados, despacho de abogados, juridico, agencia de abogados, asesor juridico, juicio oral, juicio laboral, riesgo laboral, ley mercantil, seguridad social, derecho penal, derecho civil, derecho laboral, derecho fiscal, marco legal, contribuciones, contrato mercantil, contrato compraventa, compliance, seguridad laboral, defensa fiscal">
 
   <meta name="robots" content="index, follow">
-  <meta name="author" content="Ztark, Roberto Fabian Morales Rodriguez" />
-  <meta name="copyright" content="Go, Asesores fiscales y financieros" />
+  <meta name="author" content="Geek, Carolina Jimenez Delgado" />
+  <meta name="copyright" content="Siempre Hay Alguien, A.C." />
 
   <link rel="canonical" href="https://asesoresgo.com/">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -64,7 +64,7 @@
               <a class="dropdown-item" href="rh.php" title="Recursos Humanos">REUNIONES</a>
             </div>
             <div class="dropdown-row">
-              <a class="dropdown-item" href="#" title="Inmobiliaria">JORNADAS DE SALUD</a>
+              <a class="dropdown-item" href="#" title="Inmobiliaria">APOYOS</a>
               <a class="dropdown-item" href="juridico.php" title="Juridico">TALLERES</a>
             </div>
           </div>
@@ -171,9 +171,9 @@
         <img src="image/inmobiliaria.jpg" class="desk img-fluid w-100" alt="Recursos Humanos" title="Recursos Humanos">
         <img src="image/mov/inmobiliaria.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">JORNADAS DE SALUD</h2>
+          <h2 class="text-doradolight desk">APOYOS</h2>
           <p class="text-dorado desk">Consigue resultados satisfactorios a corto plazo en el mercado inmobiliario con una atención integral y personalizada.</p>
-          <h2 class="text-bluedark movil">JORNADAS DE SALUD</h2>
+          <h2 class="text-bluedark movil">APOYOS</h2>
           <p class="text-bluedark movil">Consigue resultados satisfactorios a corto plazo en el mercado inmobiliario con una atención integral y personalizada.</p>
           <div class="text-center pt-4">
             <a href="#"><button class="btn btn-primary btn-serv">Ver más</button></a>
@@ -243,8 +243,8 @@
               <img src="image/mision.png" class="img-fluid" alt="asesoria fiscal" title="asesoria fiscal">
             </div>
             <div class="col-md-8 pt-5">
-              <h3 class="text-dorado">Misión</h3>
-              <p class="text-dorado">Generar un cambio de mentalidad positiva en los ciudadanos de Ocoyoacac fomentando la participación, trabajando en diversos temas para mejorar nuestro entorno social.</p>
+              <h3 class="text-dorado"></h3>
+              <h4 class="text-dorado">Generar un cambio de mentalidad positiva en los ciudadanos de Ocoyoacac fomentando la participación, trabajando en diversos temas para mejorar nuestro entorno social.</h4>
             </div>
           </div>
         </div>
@@ -255,8 +255,8 @@
               <img src="image/vision.png" class="img-fluid" alt="asesoria fiscal" title="asesoria fiscal">
             </div>
             <div class="col-md-8 pt-5">
-              <h3 class="text-dorado">Visión</h3>
-              <p class="text-dorado">Contagiar a toda una sociedad de optimismo y ganas de colaborar en actividades que ayuden a hacer de Ocoyoacac un mejor lugar para todos.</p>
+              <h3 class="text-dorado"></h3>
+              <h4 class="text-dorado">Contagiar a toda una sociedad de optimismo y ganas de colaborar en actividades que ayuden a hacer de Ocoyoacac un mejor lugar para todos.</h4>
             </div>
           </div>
         </div>
@@ -267,11 +267,11 @@
               <img src="image/objetivos.png" class="img-fluid" alt="asesoria fiscal" title="asesoria fiscal">
             </div>
             <div class="col-md-5 pt-5">
-              <h3 class="text-dorado">Objetivos</h3>
-              <p class="text-dorado">Negocios (BUSSINES)</p>
-              <p class="text-dorado">Conocimiento (KNOWLEDGE)</p>
-              <p class="text-dorado">Seguridad (SECURITY)</p>
-              <p class="text-dorado">Administración (MANAGEMENT)</p>
+              <h3 class="text-dorado"></h3>
+              <h3 class="text-dorado">Progreso</h3>
+              <h3 class="text-dorado">Eficacia</h3>
+              <h3 class="text-dorado">Humanismo</h3>
+              <h3 class="text-dorado">Honradez</h3>
             </div>
             <div class="col-md-1"></div>
           </div>
@@ -285,19 +285,20 @@
             <div class="col-md-5 pt-5">
               <div class="row">
                 <div class="col-md-4">
-                  <h3 class="text-dorado">Valores</h3>
-                  <p class="text-dorado">Amor<br>
+                  <h3 class="text-dorado"></h3>
+                  <p class="text-dorado">
+                  Amor<br>
                   Solidaridad<br>
                   Honestidad<br>
                   Fraternidad<br></p>
                 </div>
                 <div class="col-md-5 pt-5">
-                  <p class="text-dorado">
-                    Generosidad<br>
-                    Dignidad<br>
-                    Laboriosidad<br>
-                    Humildad<br></p>
-                </div>
+                    <p class="text-dorado">
+                     Generosidad<br>
+                     Dignidad<br>
+                     Laboriosidad<br>
+                     Humildad<br></p>
+               </div>
               </div>
             </div>
             <div class="col-md-1"></div>
@@ -313,7 +314,7 @@
       <div class="row">
         <div class="col-md-2"></div>
         <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 boxC">
-          <h1 class="text-center">CONTÁCTANOS</h1>
+          <h1 class="text-center">AFILIATE</h1>
           <form method="POST" action="contact.php">
             <div class="row">
 
@@ -322,7 +323,11 @@
               </div>
 
               <div class="form-group col-md-12">
-                <input id="telefono" type="text" class="form-control" name="tel" required placeholder="Teléfono / Celular">
+                <input id="direccion" type="text" class="form-control" name="dir" required placeholder="Dirección">
+              </div>
+
+              <div class="form-group col-md-12">
+                <input id="telefono" type="text" class="form-control" name="tel" placeholder="Teléfono / Celular:">
               </div>
 
               <div class="form-group col-md-12">
@@ -346,7 +351,7 @@
 
         <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 d-flex align-items-center boxC2">
           <div class="col-md-12 mb-4">
-            <p class="mb-4"><img src="image/tel-icon.svg" width="30"> T. (222) 887 43 77</p>
+            <p class="mb-4"><img src="image/tel-icon.svg" width="30"> T. (728) 287 81 04</p>
             <p class="mb-4"><img src="image/mail-icon.svg" width="30"> contacto@goasesores.com</p>
             <p class="mb-4"><img src="image/face-icon.svg" width="30"> /goasesores</p>
           </div>
@@ -363,7 +368,7 @@
         <span class="ml-5 mr-5 deskC text-doradolight">/</span>
         <a href="index.php#nosotros" class="text-doradolight pr-2" title="Nosotros">Nosotros</a>
         <span class="ml-5 mr-5 deskC text-doradolight">/</span>
-        <a href="index.php#servcios" class="text-doradolight pr-2" title="Servicios">Servicios</a>
+        <a href="index.php#servcios" class="text-doradolight pr-2" title="Servicios">Eventos</a>
         <span class="ml-5 mr-5 deskC text-doradolight">/</span>
         <a href="index.php#contacto" class="text-doradolight pr-2" title="Contacto">Contacto
         </a>

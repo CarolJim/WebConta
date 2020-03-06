@@ -108,7 +108,7 @@ a:hover {
   }
 
   .navbar-nav {
-    background: #964383;
+    background: #e9e3e7;
     border-radius: 25px;
   }
 
@@ -145,7 +145,7 @@ a:hover {
   .dropdown-menu {
     left: -25%;
     color: #9d865a;
-    background-color: #964383;
+    background-color: #e9e3e7;
     border: 1px solid rgba(0,33,51,.15);
     border-radius: 25px;
     padding: 8px;
@@ -179,7 +179,7 @@ a:hover {
   @media (min-width: 320px) and (max-width: 767px) {
     .navbar{
       padding: 0.5rem;
-      background:#964383;
+      background:#e9e3e7;
     }
 
     .navbar-expand-md .navbar-nav .nav-link {
