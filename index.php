@@ -352,8 +352,8 @@
         <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 d-flex align-items-center boxC2">
           <div class="col-md-12 mb-4">
             <p class="mb-4"><img src="image/tel-icon.svg" width="30"> T. (728) 287 81 04</p>
-            <p class="mb-4"><img src="image/mail-icon.svg" width="30"> contacto@goasesores.com</p>
-            <p class="mb-4"><img src="image/face-icon.svg" width="30"> /goasesores</p>
+            <p class="mb-4"><img src="image/mail-icon.svg" width="30"> contacto@ocoyoacac.com</p>
+            <p class="mb-4"><img src="image/face-icon.svg" width="30"> /siemprehayalguienocoyoacac</p>
           </div>
         </div>
       </div>
@@ -368,7 +368,7 @@
         <span class="ml-5 mr-5 deskC text-doradolight">/</span>
         <a href="index.php#nosotros" class="text-doradolight pr-2" title="Nosotros">Nosotros</a>
         <span class="ml-5 mr-5 deskC text-doradolight">/</span>
-        <a href="index.php#servcios" class="text-doradolight pr-2" title="Servicios">Eventos</a>
+        <a href="index.php#servcios" class="text-doradolight pr-2" title="Eventos">Eventos</a>
         <span class="ml-5 mr-5 deskC text-doradolight">/</span>
         <a href="index.php#contacto" class="text-doradolight pr-2" title="Contacto">Contacto
         </a>
@@ -385,10 +385,10 @@
       </div>
       <div class="row mx-auto">
         <div class="col-md-12 text-center">
-          <p class="text-doradolight font-min"> Go Asesores Fiscales y Financieros Derechos Reservados 2020</p>
+          <p class="text-doradolight font-min"> Siempre hay Alguien Ocoyoacac A.C Derechos Reservados 2020</p>
         </div>
         <div class="col-md-12 text-center">
-          <a class="text-doradolight font-min" href="https://ztark.mx/" title="Desarrollado por Ztark">Powered By Ztark</a>
+          <a class="text-doradolight font-min" href="https://ztark.mx/" title="Desarrollado por Geek">Powered By Geek</a>
         </div>
       </div>
 
