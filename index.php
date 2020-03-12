@@ -39,8 +39,8 @@
 	<!--Navbar -->
   <nav class="navbar navbar-expand-md navbar-light  d-flex align-items-start" id="menu">
     <a class="navbar-brand" href="index.php" title="Inicio">
-      <img src="image/logo.svg" height="120" class="align-top desk" alt="asesores fiscales">
-      <img src="image/logo.svg" height="65" class="align-top movil" alt="asesores fiscales">
+      <img src="image/logo.svg" height="120" class="align-top desk" alt="asociación ciudadana">
+      <img src="image/logo.svg" height="65" class="align-top movil" alt="asociación ciudadana">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
       <span class=""><i class="fa fa-bars fa-2x" aria-hidden="true"></i></span>
@@ -116,9 +116,9 @@
         <img src="image/mov/contabilidad.jpg" class="movil img-fluid carmov w-100" alt="asesoria contable" title="asesoria contable">
         <div class="carousel-captionInt">
           <h2 class="text-doradolight desk">SOCIALES</h2>
-          <P class="text-dorado desk">Es uno de los factores decisores para que una empresa sea exitosa, ¡define el rumbo de tu empresa!.</P>
+          <P class="text-dorado desk">Difusión y promoción a las principales fiestas patronales que destacan dentro del municipio.</P>
           <h2 class="text-bluedark movil">SOCIALES</h2>
-          <P class="text-bluedark movil">Es uno de los factores decisores para que una empresa sea exitosa, ¡define el rumbo de tu empresa!.</P>
+          <P class="text-bluedark movil">Difusión y promoción a las principales fiestas patronales que destacan dentro del municipio.</P>
           <div class="text-center pt-4">
             <a href="contabilidad.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>

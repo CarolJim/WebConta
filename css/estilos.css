@@ -108,7 +108,7 @@ a:hover {
   }
 
   .navbar-nav {
-    background: #e9e3e7;
+    background: #e676a8;
     border-radius: 25px;
   }
 
@@ -378,7 +378,7 @@ a:hover {
     padding: 0rem;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
-    padding-top: 50px;
+    padding-top: 100px;
     margin-bottom: 50px;
   }
 }
