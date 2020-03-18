@@ -65,7 +65,7 @@
             </div>
             <div class="dropdown-row">
               <a class="dropdown-item" href="#" title="Inmobiliaria">APOYOS</a>
-              <a class="dropdown-item" href="juridico.php" title="Juridico">TALLERES</a>
+              <a class="dropdown-item" href="juridico.php" title="Juridico">AFILIATE</a>
             </div>
           </div>
         </li>
@@ -185,10 +185,10 @@
         <img src="image/juridico.jpg" class="desk img-fluid w-100" alt="Recursos Humanos" title="Recursos Humanos">
         <img src="image/mov/juridico.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
-          <h2 class="text-doradolight desk">TALLERES</h2>
-          <p class="text-dorado desk">El capital humano es la base de cualquier entidad económica, conocido también como Recursos Humanos, está compuesta de seres humanos que se unen para beneficio mutuo...</p>
-          <h2 class="text-bluedark movil">TALLERES</h2>
-          <p class="text-bluedark movil">El capital humano es la base de cualquier entidad económica, conocido también como Recursos Humanos, está compuesta de seres humanos que se unen para beneficio mutuo...</p>
+          <h2 class="text-doradolight desk">AFILIATE</h2>
+          <p class="text-dorado desk">Forma parte de este gran equipo de trabajo y ayúdanos a mejorar nuestra comunidad...!</p>
+          <h2 class="text-bluedark movil">AFILIATE</h2>
+          <p class="text-bluedark movil">Forma parte de este gran equipo de trabajo y ayúdanos a mejorar nuestra comunidad...!</p>
           <div class="text-center pt-4">
             <a href="juridico.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
@@ -314,16 +314,12 @@
       <div class="row">
         <div class="col-md-2"></div>
         <div class="col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5 boxC">
-          <h1 class="text-center">AFILIATE</h1>
+          <h1 class="text-center">CONTÁCTANOS</h1>
           <form method="POST" action="contact.php">
             <div class="row">
 
               <div class="form-group col-md-12">
                 <input id="name" type="text" class="form-control" name="name" required placeholder="Nombre:">
-              </div>
-
-              <div class="form-group col-md-12">
-                <input id="direccion" type="text" class="form-control" name="dir" required placeholder="Dirección">
               </div>
 
               <div class="form-group col-md-12">
