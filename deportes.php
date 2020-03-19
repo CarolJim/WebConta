@@ -11,7 +11,7 @@
 
   <meta name="robots" content="index, follow">
   <meta name="author" content="Geek, Carolina Jimenez Delgado" />
-  <meta name="copyright" content="Siempre Hay Alguien, A.C." />
+  <meta name="copyright" content="Siempre Hay Alguien, A.C."  />
 
   <link rel="canonical" href="https://asesoresgo.com/">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -35,43 +35,43 @@
 <body>
 
 	<!--Navbar -->
-  <nav class="navbar navbar-expand-md navbar-light  d-flex align-items-start" id="menu">
-    <a class="navbar-brand" href="index.php" title="Inicio">
+  <nav class="navbar2 navbar-expand-md2 navbar-light2  d-flex align-items-start" id="menu">
+    <a class="navbar-brand2" href="index.php" title="Inicio">
       <img src="image/logo.svg" height="120" class="align-top desk" alt="asesores fiscales">
       <img src="image/logo.svg" height="65" class="align-top movil" alt="asesores fiscales">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <button class="navbar-toggler2" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
       <span class=""><i class="fa fa-bars fa-2x" aria-hidden="true"></i></span>
     </button>
     <div class="collapse navbar-collapse pt-5" id="collapsibleNavbar"> <!-- nav-sc-item -->
-      <ul class="navbar-nav">
-        <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
-          <a class="nav-link " href="index.php" title="Inicio"><span class="hover-nav">INICIO</span></a>
+      <ul class="navbar-nav2">
+        <li class="nav-item2" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="nav-link2 " href="index.php" title="Inicio"><span class="hover-nav">INICIO</span></a>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Servicios">
+        <li class="nav-item2 dropdown2">
+          <a class="nav-link2 active dropdown-toggle2" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Servicios">
             EVENTOS
           </a>
-          <div class="dropdown-menu dropdown-multicol" aria-labelledby="navbarDropdown">
-            <div class="dropdown-row">
-              <a class="dropdown-item" href="contabilidad.php" title="Contabilidad">SOCIALES</a>
-              <a class="dropdown-item" href="fiscal.php" title="Fiscal">DEPORTIVOS</a>
+          <div class="dropdown-menu2 dropdown-multicol2" aria-labelledby="navbarDropdown">
+            <div class="dropdown-row2">
+              <a class="dropdown-item2" href="sociales.php" title="Contabilidad">SOCIALES</a>
+              <a class="dropdown-item2" href="deportes.php" title="Fiscal">DEPORTIVOS</a>
             </div>
-            <div class="dropdown-row">
-              <a class="dropdown-item" href="administrativo.php" title="Administrativo">CULTURALES</a>
-              <a class="dropdown-item" href="rh.php" title="Recursos Humanos">REUNIONES</a>
+            <div class="dropdown-row2">
+              <a class="dropdown-item2" href="cultural.php" title="Administrativo">CULTURALES</a>
+              <a class="dropdown-item2" href="reuniones.php" title="Recursos Humanos">REUNIONES</a>
             </div>
-            <div class="dropdown-row">
-              <a class="dropdown-item" href="#" title="Inmobiliaria">APOYOS</a>
-              <a class="dropdown-item" href="juridico.php" title="Juridico">TALLERES</a>
+            <div class="dropdown-row2">
+              <a class="dropdown-item2" href="#" title="Inmobiliaria">APOYOS</a>
+              <a class="dropdown-item2" href="juridico.php" title="Juridico">AFILIATE</a>
             </div>
           </div>
         </li>
-        <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
-          <a class="nav-link" href="blog.php" title="Asesores financieros"><span class="hover-nav text-dorado">BLOG</span></a>
+        <li class="nav-item2" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="nav-link2" href="blog.php" title="Asociación Ciudadana"><span class="hover-nav text-dorado">BLOG</span></a>
         </li>
-        <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
-          <a class="nav-link" href="index.php#contacto" title="Contacto"><span class="hover-nav text-dorado">CONTACTO</span></a>
+        <li class="nav-item2" data-toggle="collapse" data-target=".navbar-collapse.show">
+          <a class="nav-link2" href="index.php#contacto" title="Contacto"><span class="hover-nav text-dorado">CONTACTO</span></a>
         </li>
       </ul>
     </div>
@@ -80,48 +80,25 @@
 
 
   <!-- Quienes Somos -->
-  <section class="bg-servicios" id="nosotros">
+  <section class="bg-serviciosL" id="nosotros">
     <div class="container pt-5">
       <div class="row pt-5 ">
 
         <div class="col-md-7 pb-5">
-          <h1 class="text-dorado">Sociales</h1>
-          <p class="text-dorado text-justify">
-            Dentro del municipio destacan diferentes festividades y fiestas patronales a las que se les otorga difusión y promoción para que toda la comunidad asista, entre las principales fiestas patronales destacan las siguientes.
+          <h1 class="text-bluedark">Deportivos</h1>
+          <p class="text-bluedark text-justify">
+            En SHA fomentamos la cultura del deporte, organizando paseos en bicicleta, torneos de futbol, bascketball, entre otros.
           </p>
-          <div class="row">
-            <div class="col-md-6">
-              <ul class="text-dorado">
-                <li>Carnaval
-                  <ul>
-                    <li>Cabecera Municipal</li>
-                    <li>Atlapulco</li>
-                  </ul>
-                </li>
-                <li>Fiesta Patronal de Ocoyoacac</li>
-                <li>Fiesta de San Pedro</li>
-                <li>Fiesta de San Pablo</li>
-              </ul>
-            </div>
-            <div class="col-md-6">
-              <ul class="text-dorado">
-                <li>Semana Santa
-                  <ul>
-                    <li>Atlapulco</li>
-                    <li>Cholula</li>
-                    <li>Coapanoaya</li>
-                    <li>Tepexoyuca</li>
-                  </ul>
-                </li>
-                <li>Fiesta de San Miguel</li>
-              </ul>
-            </div>
-          </div>
+          <ul class="text-bluedark">
+            <li>Tiene la facultad de ayudar a desarrollar destrezas físicas, a socializar, hacer ejercicio y mantener cuerpo y mente sanos.</li>
+            <li>En los niños mejora su desarrollo físico y fortalece su capacidad física y mental.</li>
+            <li>Es un factor protector contra malos hábitos en la adolescencia como el tabaco, alcohol, drogas, etc.</li>
+          </ul>
         </div>
 
         <div class="col-md-5 pb-5" data-aos="zoom-in-down">
-          <img src="image/contabilidad-servicio.png" class="desk" alt="asesoria contable" width="100%">
-          <img src="image/contabilidad-servicio.png" class="movil img-fluid" alt="asesoria contable">
+          <img src="image/fiscal-servicio.png" class="desk" alt="asesoria fiscal" width="100%">
+          <img src="image/fiscal-servicio.png" class="movil img-fluid" alt="asesoria fiscal">
         </div>
 
       </div>
@@ -129,19 +106,19 @@
   </section>
   <!-- ------------- -->
 
-  <footer class="bg-doradolight">
+  <footer class="bg-bluedark">
     <div class="container">
       <div class="col-md-11 mx-auto text-center pt-5 ap">
-        <a href="index.php" class="text-bluedark pr-2 deskF" title="Home">Inicio</a>
-        <span class="ml-5 mr-5 deskC text-bluedark">/</span>
-        <a href="index.php#nosotros" class="text-bluedark pr-2 deskF" title="Nosotros">Nosotros</a>
-        <span class="ml-5 mr-5 deskC text-bluedark">/</span>
-        <a href="index.php#servcios" class="text-bluedark pr-2 deskF" title="Servicios">Eventos</a>
-        <span class="ml-5 mr-5 deskC text-bluedark">/</span>
-        <a href="index.php#contacto" class="text-bluedark pr-2 deskF" title="Contacto">Contacto
+        <a href="index.php" class="text-doradolight pr-2 deskF" title="Home">Inicio</a>
+        <span class="ml-5 mr-5 deskC text-doradolight">/</span>
+        <a href="index.php#nosotros" class="text-doradolight pr-2 deskF" title="Nosotros">Nosotros</a>
+        <span class="ml-5 mr-5 deskC text-doradolight">/</span>
+        <a href="index.php#servcios" class="text-doradolight pr-2 deskF" title="Servicios">Eventos</a>
+        <span class="ml-5 mr-5 deskC text-doradolight">/</span>
+        <a href="index.php#contacto" class="text-doradolight pr-2 deskF" title="Contacto">Contacto
         </a>
-        <a href="" class="text-bluedark pr-2 deskF" title="FaceBook">
-          <img src="image/face-icon-azul.svg" width="30">
+        <a href="" class="text-doradolight pr-2 deskF" title="FaceBook">
+          <img src="image/face-icon.svg" width="30">
           <!--<i class="fa fa-facebook" aria-hidden="true"></i>-->
         </a>
 
@@ -153,10 +130,10 @@
       </div>
       <div class="row mx-auto">
         <div class="col-md-12 text-center">
-          <p class="text-bluedark font-min"> Siempre hay Alguien Ocoyoacac A.C Derechos Reservados 2020</p>
+          <p class="text-doradolight font-min"> Siempre hay Alguien Ocoyoacac A.C Derechos Reservados 2020</p>
         </div>
         <div class="col-md-12 text-center">
-          <a class="text-bluedark font-min" href="https://ztark.mx/" title="Desarrollado por Geek">Powered By Geek</a>
+          <a class="text-doradolight font-min" href="https://ztark.mx/" title="Desarrollado por Ztark">Powered By Geek</a>
         </div>
       </div>
 

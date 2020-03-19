@@ -56,12 +56,12 @@
           </a>
           <div class="dropdown-menu dropdown-multicol" aria-labelledby="navbarDropdown">
             <div class="dropdown-row">
-              <a class="dropdown-item" href="contabilidad.php" title="Contabilidad">SOCIALES</a>
-              <a class="dropdown-item" href="fiscal.php" title="Fiscal">DEPORTIVOS</a>
+              <a class="dropdown-item" href="sociales.php" title="Contabilidad">SOCIALES</a>
+              <a class="dropdown-item" href="deportes.php" title="Fiscal">DEPORTIVOS</a>
             </div>
             <div class="dropdown-row">
-              <a class="dropdown-item" href="administrativo.php" title="Administrativo">CULTURALES</a>
-              <a class="dropdown-item" href="rh.php" title="Recursos Humanos">REUNIONES</a>
+              <a class="dropdown-item" href="cultural.php" title="Administrativo">CULTURALES</a>
+              <a class="dropdown-item" href="reuniones.php" title="Recursos Humanos">REUNIONES</a>
             </div>
             <div class="dropdown-row">
               <a class="dropdown-item" href="#" title="Inmobiliaria">APOYOS</a>
@@ -70,7 +70,7 @@
           </div>
         </li>
         <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
-          <a class="nav-link" href="blog.php" title="Blog Asesores financieros"><span class="hover-nav text-dorado">BLOG</span></a>
+          <a class="nav-link" href="blog.php" title="Blog Asociación Ciudadana"><span class="hover-nav text-dorado">BLOG</span></a>
         </li>
         <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
           <a class="nav-link" href="index.php#contacto" title="Contacto"><span class="hover-nav text-dorado">CONTACTO</span></a>
@@ -120,7 +120,7 @@
           <h2 class="text-bluedark movil">SOCIALES</h2>
           <P class="text-bluedark movil">Difusión y promoción a las principales fiestas patronales que destacan dentro del municipio.</P>
           <div class="text-center pt-4">
-            <a href="contabilidad.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
+            <a href="sociales.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
         </div>
       </div>
@@ -130,11 +130,11 @@
         <img src="image/mov/fiscal.jpg" class="movil img-fluid carmov w-100" alt="asesoria fiscal" title="asesoria fiscal">
         <div class="carousel-captionInt">
           <h2 class="text-doradolight desk">DEPORTIVOS</h2>
-          <p class="text-dorado desk">Obtén todos los beneficios y estímulos que ofrecen las leyes dentro de un marco de legalidad y transparencia.</p>
+          <p class="text-dorado desk">Practicar deporte y mantenerse activo constantemente son factores que coadyuvan a la sociedad a mantener una buena salud.</p>
           <h2 class="text-bluedark movil">DEPORTIVOS</h2>
-          <p class="text-bluedark movil">Obtén todos los beneficios y estímulos que ofrecen las leyes dentro de un marco de legalidad y transparencia.</p>
+          <p class="text-bluedark movil">Practicar deporte y mantenerse activo constantemente son factores que coadyuvan a la sociedad a mantener una buena salud.</p>
           <div class="text-center pt-4">
-            <a href="fiscal.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
+            <a href="deportes.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
         </div>
       </div>
@@ -144,11 +144,11 @@
         <img src="image/mov/administrativo.jpg" class="movil img-fluid carmov w-100" alt="asesoria administrativa" title="asesoria administrativa">
         <div class="carousel-captionInt">
           <h2 class="text-doradolight desk">CULTURALES</h2>
-          <p class="text-dorado desk">¡Desarrolla la productividad y la competitividad de tu empresa u organismo social con una administración de calidad!.</p>
+          <p class="text-dorado desk">Mantenerse conectado entre el pasado y el presente, entre lo propio y lo ajeno, entre el ser y el deber ser de lo que implica la formación de nuestra comunidad desde sus raíces.</p>
           <h2 class="text-bluedark movil">CULTURALES</h2>
-          <p class="text-bluedark movil">¡Desarrolla la productividad y la competitividad de tu empresa u organismo social con una administración de calidad!.</p>
+          <p class="text-bluedark movil">Mantenerse conectado entre el pasado y el presente, entre lo propio y lo ajeno, entre el ser y el deber ser de lo que implica la formación de nuestra comunidad desde sus raíces.</p>
           <div class="text-center pt-4">
-            <a href="administrativo.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
+            <a href="cultural.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
         </div>
       </div>
@@ -158,11 +158,11 @@
         <img src="image/mov/rh.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
           <h2 class="text-doradolight desk">REUNIONES</h2>
-          <p class="text-dorado desk">Incrementa la productividad de tu empresa mejorando la calidad y habilidades de tu personal.</p>
+          <p class="text-dorado desk">Escuchar las problemáticas que aquejan a la comunidad es un factor primordial para encontrar soluciones y atacarlas de raíz.</p>
           <h2 class="text-bluedark movil">REUNIONES</h2>
-          <p class="text-bluedark movil">Incrementa la productividad de tu empresa mejorando la calidad y habilidades de tu personal.</p>
+          <p class="text-bluedark movil">Escuchar las problemáticas que aquejan a la comunidad es un factor primordial para encontrar soluciones y atacarlas de raíz.</p>
           <div class="text-center pt-4">
-            <a href="rh.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
+            <a href="reuniones.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
         </div>
       </div>
@@ -172,9 +172,9 @@
         <img src="image/mov/inmobiliaria.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
           <h2 class="text-doradolight desk">APOYOS</h2>
-          <p class="text-dorado desk">Consigue resultados satisfactorios a corto plazo en el mercado inmobiliario con una atención integral y personalizada.</p>
+          <p class="text-dorado desk">Gestionar programas de calidad para la comunidad que necesita recursos para mejorar su caliad de vida.</p>
           <h2 class="text-bluedark movil">APOYOS</h2>
-          <p class="text-bluedark movil">Consigue resultados satisfactorios a corto plazo en el mercado inmobiliario con una atención integral y personalizada.</p>
+          <p class="text-bluedark movil">Gestionar programas de calidad para la comunidad que necesita recursos para mejorar su caliad de vida.</p>
           <div class="text-center pt-4">
             <a href="#"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
@@ -186,9 +186,9 @@
         <img src="image/mov/juridico.jpg" class="movil img-fluid carmov w-100" alt="Recursos Humanos" title="asesoria administrativa">
         <div class="carousel-captionInt">
           <h2 class="text-doradolight desk">AFILIATE</h2>
-          <p class="text-dorado desk">Forma parte de este gran equipo de trabajo y ayúdanos a mejorar nuestra comunidad...!</p>
+          <p class="text-dorado desk">¡Forma parte de este gran equipo de trabajo y ayúdanos a mejorar nuestra comunidad...!</p>
           <h2 class="text-bluedark movil">AFILIATE</h2>
-          <p class="text-bluedark movil">Forma parte de este gran equipo de trabajo y ayúdanos a mejorar nuestra comunidad...!</p>
+          <p class="text-bluedark movil">¡Forma parte de este gran equipo de trabajo y ayúdanos a mejorar nuestra comunidad...!</p>
           <div class="text-center pt-4">
             <a href="juridico.php"><button class="btn btn-primary btn-serv">Ver más</button></a>
           </div>
@@ -286,18 +286,18 @@
               <div class="row">
                 <div class="col-md-4">
                   <h3 class="text-dorado"></h3>
-                  <p class="text-dorado">
+                  <h3 class="text-dorado">
                   Amor<br>
                   Solidaridad<br>
                   Honestidad<br>
-                  Fraternidad<br></p>
+                  Fraternidad<br></h3>
                 </div>
                 <div class="col-md-5 pt-5">
-                    <p class="text-dorado">
+                    <h3 class="text-dorado">
                      Generosidad<br>
                      Dignidad<br>
                      Laboriosidad<br>
-                     Humildad<br></p>
+                     Humildad<br></h3>
                </div>
               </div>
             </div>
