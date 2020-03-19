@@ -48,7 +48,7 @@
         <li class="nav-item2" data-toggle="collapse" data-target=".navbar-collapse.show">
           <a class="nav-link2 " href="index.php" title="Inicio"><span class="hover-nav">INICIO</span></a>
         </li>
-        <li class="nav-item2 dropdown2">
+        <li class="nav-item2 dropdown2hjhhh">
           <a class="nav-link2 active dropdown-toggle2" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="Servicios">
             EVENTOS
           </a>
